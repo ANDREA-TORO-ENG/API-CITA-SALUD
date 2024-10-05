@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Proyectos\\CitasSalud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{027007BA-8A25-40C8-B2D1-CD9A687358A0}|TestAPICitasSalud\\TestAPICitasSalud.csproj|d:\\proyectos\\citassalud\\testapicitassalud\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{027007BA-8A25-40C8-B2D1-CD9A687358A0}|TestAPICitasSalud\\TestAPICitasSalud.csproj|solutionrelative:testapicitassalud\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{720A17D1-C07D-4B73-AB65-26076EED9F01}|CitasSalud\\CitasSalud.csproj|d:\\proyectos\\citassalud\\citassalud\\data\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{720A17D1-C07D-4B73-AB65-26076EED9F01}|CitasSalud\\CitasSalud.csproj|solutionrelative:citassalud\\data\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{720A17D1-C07D-4B73-AB65-26076EED9F01}|CitasSalud\\CitasSalud.csproj|d:\\proyectos\\citassalud\\citassalud\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{720A17D1-C07D-4B73-AB65-26076EED9F01}|CitasSalud\\CitasSalud.csproj|solutionrelative:citassalud\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{720A17D1-C07D-4B73-AB65-26076EED9F01}|CitasSalud\\CitasSalud.csproj|d:\\proyectos\\citassalud\\citassalud\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{720A17D1-C07D-4B73-AB65-26076EED9F01}|CitasSalud\\CitasSalud.csproj|solutionrelative:citassalud\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{720A17D1-C07D-4B73-AB65-26076EED9F01}|CitasSalud\\CitasSalud.csproj|d:\\proyectos\\citassalud\\citassalud\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{720A17D1-C07D-4B73-AB65-26076EED9F01}|CitasSalud\\CitasSalud.csproj|solutionrelative:citassalud\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{720A17D1-C07D-4B73-AB65-26076EED9F01}|CitasSalud\\CitasSalud.csproj|d:\\proyectos\\citassalud\\citassalud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{720A17D1-C07D-4B73-AB65-26076EED9F01}|CitasSalud\\CitasSalud.csproj|solutionrelative:citassalud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{720A17D1-C07D-4B73-AB65-26076EED9F01}|CitasSalud\\CitasSalud.csproj|d:\\proyectos\\citassalud\\citassalud\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{720A17D1-C07D-4B73-AB65-26076EED9F01}|CitasSalud\\CitasSalud.csproj|solutionrelative:citassalud\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{720A17D1-C07D-4B73-AB65-26076EED9F01}|CitasSalud\\CitasSalud.csproj|d:\\proyectos\\citassalud\\citassalud\\data\\idbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{720A17D1-C07D-4B73-AB65-26076EED9F01}|CitasSalud\\CitasSalud.csproj|solutionrelative:citassalud\\data\\idbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{720A17D1-C07D-4B73-AB65-26076EED9F01}|CitasSalud\\CitasSalud.csproj|d:\\proyectos\\citassalud\\citassalud\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{720A17D1-C07D-4B73-AB65-26076EED9F01}|CitasSalud\\CitasSalud.csproj|solutionrelative:citassalud\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{720A17D1-C07D-4B73-AB65-26076EED9F01}|CitasSalud\\CitasSalud.csproj|d:\\proyectos\\citassalud\\citassalud\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{720A17D1-C07D-4B73-AB65-26076EED9F01}|CitasSalud\\CitasSalud.csproj|solutionrelative:citassalud\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{720A17D1-C07D-4B73-AB65-26076EED9F01}|CitasSalud\\CitasSalud.csproj|d:\\proyectos\\citassalud\\citassalud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{720A17D1-C07D-4B73-AB65-26076EED9F01}|CitasSalud\\CitasSalud.csproj|solutionrelative:citassalud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Proyectos\\CitasSalud\\TestAPICitasSalud\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestAPICitasSalud\\UnitTest1.cs",
+              "ToolTip": "D:\\Proyectos\\CitasSalud\\TestAPICitasSalud\\UnitTest1.cs",
+              "RelativeToolTip": "TestAPICitasSalud\\UnitTest1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T03:08:15.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDbContext.cs",
+              "DocumentMoniker": "D:\\Proyectos\\CitasSalud\\CitasSalud\\Data\\IDbContext.cs",
+              "RelativeDocumentMoniker": "CitasSalud\\Data\\IDbContext.cs",
+              "ToolTip": "D:\\Proyectos\\CitasSalud\\CitasSalud\\Data\\IDbContext.cs",
+              "RelativeToolTip": "CitasSalud\\Data\\IDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T00:47:49.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Proyectos\\CitasSalud\\CitasSalud\\Program.cs",
+              "RelativeDocumentMoniker": "CitasSalud\\Program.cs",
+              "ToolTip": "D:\\Proyectos\\CitasSalud\\CitasSalud\\Program.cs",
+              "RelativeToolTip": "CitasSalud\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T00:55:43.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Proyectos\\CitasSalud\\CitasSalud\\Models\\User.cs",
+              "RelativeDocumentMoniker": "CitasSalud\\Models\\User.cs",
+              "ToolTip": "D:\\Proyectos\\CitasSalud\\CitasSalud\\Models\\User.cs",
+              "RelativeToolTip": "CitasSalud\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T00:50:50.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Proyectos\\CitasSalud\\CitasSalud\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "CitasSalud\\Services\\IUserService.cs",
+              "ToolTip": "D:\\Proyectos\\CitasSalud\\CitasSalud\\Services\\IUserService.cs",
+              "RelativeToolTip": "CitasSalud\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T00:51:58.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Proyectos\\CitasSalud\\CitasSalud\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "CitasSalud\\Services\\UserService.cs",
+              "ToolTip": "D:\\Proyectos\\CitasSalud\\CitasSalud\\Services\\UserService.cs",
+              "RelativeToolTip": "CitasSalud\\Services\\UserService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAIAwwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T00:52:16.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Proyectos\\CitasSalud\\CitasSalud\\Data\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "CitasSalud\\Data\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\Proyectos\\CitasSalud\\CitasSalud\\Data\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "CitasSalud\\Data\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA5wCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T00:43:48.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Proyectos\\CitasSalud\\CitasSalud\\Data\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "CitasSalud\\Data\\Repositories\\IUserRepository.cs",
+              "ToolTip": "D:\\Proyectos\\CitasSalud\\CitasSalud\\Data\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "CitasSalud\\Data\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T00:43:17.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Proyectos\\CitasSalud\\CitasSalud\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "CitasSalud\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Proyectos\\CitasSalud\\CitasSalud\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "CitasSalud\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAMwDoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T00:29:24.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "D:\\Proyectos\\CitasSalud\\CitasSalud\\Data\\DbContext.cs",
+              "RelativeDocumentMoniker": "CitasSalud\\Data\\DbContext.cs",
+              "ToolTip": "D:\\Proyectos\\CitasSalud\\CitasSalud\\Data\\DbContext.cs",
+              "RelativeToolTip": "CitasSalud\\Data\\DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T00:46:48.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Proyectos\\CitasSalud\\CitasSalud\\appsettings.json",
+              "RelativeDocumentMoniker": "CitasSalud\\appsettings.json",
+              "ToolTip": "D:\\Proyectos\\CitasSalud\\CitasSalud\\appsettings.json",
+              "RelativeToolTip": "CitasSalud\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-05T00:54:04.944Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
