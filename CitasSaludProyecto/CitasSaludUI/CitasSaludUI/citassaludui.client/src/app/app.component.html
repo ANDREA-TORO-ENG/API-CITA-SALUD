@@ -1,0 +1,32 @@
+<div class="container mt-5">
+  <h2 class="text-center">User Registration Form</h2>
+  <form #userForm="ngForm" (ngSubmit)="onSubmit(userForm)" class="mx-auto" style="max-width: 500px;">
+
+    <div class="form-group mb-3">
+      <label for="firstName" class="col-sm-12 col-form-label text-start font-weight-bold">First Name<span class="text-danger">*</span></label>
+      <input type="text" id="firstName" class="form-control" required [(ngModel)]="user.firstName" name="firstName" placeholder="Example: Jhon">
+    </div>
+
+    <div class="form-group mb-3">
+      <label for="lastName" class="col-sm-12 col-form-label text-start font-weight-bold">Last Name<span class="text-danger">*</span></label>
+      <input type="text" id="lastName" class="form-control" required [(ngModel)]="user.lastName" name="lastName" placeholder="Example: Smith">
+    </div>
+
+    <div class="form-group mb-3">
+      <label for="phone" class="col-sm-12 col-form-label text-start font-weight-bold">Phone<span class="text-danger">*</span></label>
+      <input type="tel" id="phone" class="form-control" required [(ngModel)]="user.phone" name="phone" placeholder="Example: 3214567894" pattern="[0-9]*">
+    </div>
+
+    <div class="form-group mb-3">
+      <label for="email" class="col-sm-12 col-form-label text-start font-weight-bold">Email<span class="text-danger">*</span></label>
+      <input type="email" id="email" class="form-control" required [(ngModel)]="user.email" name="email" placeholder="Example: email@example.com">
+    </div>
+
+    <div class="form-group mb-3">
+      <label for="dateOfBirth" class="col-sm-12 col-form-label text-start font-weight-bold">Date of Birth<span class="text-danger">*</span></label>
+      <input type="date" id="dateOfBirth" class="form-control" required [(ngModel)]="user.dateOfBirth" name="dateOfBirth">
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+  </form>
+</div>

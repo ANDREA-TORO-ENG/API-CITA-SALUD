@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CitasSalud</name>
+    </assembly>
+    <members>
+        <member name="M:CitasSalud.Controllers.UsersController.GetAllUsers">
+            <summary>
+            Gets all users
+            </summary>
+            <returns>List of users</returns>
+        </member>
+        <member name="M:CitasSalud.Controllers.UsersController.GetUserById(System.Int32)">
+            <summary>
+            Gets a user by Id
+            </summary>
+            <returns>User</returns>
+        </member>
+        <member name="M:CitasSalud.Controllers.UsersController.CreateUser(CitasSalud.Models.User)">
+            <summary>
+            Creates a user
+            </summary>
+            <returns>User</returns>
+        </member>
+        <member name="M:CitasSalud.Controllers.UsersController.UpdateUser(System.Int32,CitasSalud.Models.User)">
+            <summary>
+            Updates a user by Id
+            </summary>
+            <returns>User</returns>
+        </member>
+        <member name="M:CitasSalud.Controllers.UsersController.DeleteUser(System.Int32)">
+            <summary>
+            Deletes a user by Id
+            </summary>
+            <returns>User</returns>
+        </member>
+        <member name="M:CitasSalud.Controllers.UsersController.CreateUserUI(CitasSalud.Controllers.UsersController.UserDto)">
+            <summary>
+            Creates a user from the UI
+            </summary>
+            <returns>User</returns>
+        </member>
+    </members>
+</doc>

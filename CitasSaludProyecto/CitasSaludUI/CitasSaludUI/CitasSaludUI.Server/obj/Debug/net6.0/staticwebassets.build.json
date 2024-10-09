@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "07R30HXHXkzg186pwZZwHVr/f5fpp+/YmVQq0DCv3WY=",
+  "Source": "CitasSaludUI.Server",
+  "BasePath": "_content/CitasSaludUI.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\Proyectos\\CitasSalud\\CitasSaludUI\\citassaludui.client\\citassaludui.client.esproj",
+      "Version": 2,
+      "Source": "citassaludui.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
